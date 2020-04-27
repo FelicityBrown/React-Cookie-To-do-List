@@ -1,0 +1,9 @@
+.cookie {
+    position: relative;
+    top: 40px;
+    left: 40px;
+  }
+  .cookie-overlay {
+    position: absolute;
+    width: 420px;
+  }
