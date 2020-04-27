@@ -1,3 +1,14 @@
+# React Cookie To-do List
+
+To use this project please use these commands (ensure you change into the directory you are wishing to clone this into):
+
+```
+git clone git@github.com:FelicityBrown/React-Cookie-To-do-List.git
+cd React-Cookie-To-do-List/
+npm install
+npm start
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
